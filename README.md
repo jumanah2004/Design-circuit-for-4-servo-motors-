@@ -18,7 +18,7 @@ To open and run the circuit in Tinkercad, use the following link:
 
 ## 🖼️ Circuit Diagram & video
 
-![Circuit Diagram](circuit.jpg)
+![Circuit Diagram]()
 
 ---
 
