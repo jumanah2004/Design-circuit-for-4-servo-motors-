@@ -1,4 +1,4 @@
-# Design-circuit-for-dog-legs(4-servo-motors)
+# Design circuit for (4-servo-motors)
 ---
 # 🐕 4 Servo Motors Control Using Arduino
 
