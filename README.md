@@ -22,7 +22,8 @@ To open and run the circuit in Tinkercad, use the following link:
 
 https://github.com/user-attachments/assets/33e85b99-0992-4c1b-9d4a-d5c895b369b3
 
-[also the link of video!](https://github.com/user-attachments/assets/1b869a7c-ef25-4b6b-9dcd-515da866091b)
+[also the link of video!](https://github.com/user-attachments/assets/33e85b99-0992-4c1b-9d4a-d5c895b369b3
+)
 ---
 
 ## 💻 Arduino Code
