@@ -1,5 +1,5 @@
 
-# 🐕Design circuit 4 Servo Motors Control Using Arduino
+# Design circuit 4 Servo Motors Control Using Arduino
 
 This project demonstrates how to control 4 servo motors using an Arduino Uno. The servo motors perform a Sweep movement for 2 seconds, then all motors stop and hold at 90 degrees.
 
